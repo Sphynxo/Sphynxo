@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I am Irakli Zhordania</h1>
 
-<!--
-**Sphynxo/Sphynxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">React Developer</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 I’m currently working as a junior react developer for GT Consulting LLC
+- 💼 Check my projects at [My portfolio](https://sphynxo.io)
+- 🎯 Looking for opportunities in **React & Vanilla JavaScript**
+- 📫 How to reach me: **iraklijordania@gmail.com**
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/irakli-zhordania-88b042123" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/sphynxo.js/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" hspace="10"/>
+</a>
+<a href="https://www.facebook.com/Sphynxo" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" hspace="10"/>
+</a>
+
+### GitHub Stats 📊
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sphynxo&layout=compact&theme=dark)
+
+### Trophies 🏆
+![Trophies](https://github-profile-trophy.vercel.app/?username=sphynxo&theme=darkhub)
+
+
